@@ -1,0 +1,20 @@
+[
+{
+    "model": "poll.pollmodel",
+    "pk": 3,
+    "fields": {
+        "title": "21312",
+        "description": "fsdf2g213",
+        "url_logo": "http://127.0.0.1:8000/admin/poll/pollmodel/add/"
+    }
+},
+{
+    "model": "poll.pollmodel",
+    "pk": 4,
+    "fields": {
+        "title": "AS2RR1",
+        "description": "SAFAT",
+        "url_logo": "http://127.0.0.1:8000/admin/p"
+    }
+}
+]
