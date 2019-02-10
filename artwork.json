@@ -1,0 +1,34 @@
+[
+{
+    "model": "objectid.artwork",
+    "pk": 1,
+    "fields": {
+        "owner": 2,
+        "title": "HelloHello"
+    }
+},
+{
+    "model": "objectid.artwork",
+    "pk": 2,
+    "fields": {
+        "owner": 1,
+        "title": "sadasd"
+    }
+},
+{
+    "model": "objectid.artwork",
+    "pk": 3,
+    "fields": {
+        "owner": 3,
+        "title": "sdfsdfs"
+    }
+},
+{
+    "model": "objectid.artwork",
+    "pk": 4,
+    "fields": {
+        "owner": 2,
+        "title": "sdfsdfweqf"
+    }
+}
+]
